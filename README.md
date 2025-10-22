@@ -81,4 +81,3 @@ Add animations using JavaScript/AOS
 
 This project is open-source and available for educational and personal use.
 
-
